@@ -2,12 +2,12 @@ import 'package:flutter/material.dart';
 import 'package:go_router/go_router.dart';
 import 'package:social_media_app/common/router/transitions_animatuions.dart/fade_through_transition_wrapper.dart';
 import 'package:social_media_app/common/router/transitions_animatuions.dart/shared_axis_transition_wrapper.dart';
-import 'package:social_media_app/presentation/first_page/first_page.dart';
-import 'package:social_media_app/presentation/first_page/secondary_first_page.dart';
-import 'package:social_media_app/presentation/home_page/home_page.dart';
-import 'package:social_media_app/presentation/second_page/second_page.dart';
-import 'package:social_media_app/presentation/third_page/secondary_third_page.dart';
-import 'package:social_media_app/presentation/third_page/third_page.dart';
+import 'package:social_media_app/features/presentation/first_page/first_page.dart';
+import 'package:social_media_app/features/presentation/first_page/secondary_first_page.dart';
+import 'package:social_media_app/features/presentation/home_page/home_page.dart';
+import 'package:social_media_app/features/presentation/second_page/second_page.dart';
+import 'package:social_media_app/features/presentation/third_page/secondary_third_page.dart';
+import 'package:social_media_app/features/presentation/third_page/third_page.dart';
 
 final rootNavigatorKey = GlobalKey<NavigatorState>();
 
