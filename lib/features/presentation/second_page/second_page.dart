@@ -1,6 +1,6 @@
 import 'package:animations/animations.dart';
 import 'package:flutter/material.dart';
-import 'package:social_media_app/presentation/second_page/secondary_second_page.dart';
+import 'package:social_media_app/features/presentation/second_page/secondary_second_page.dart';
 
 class SecondPage extends StatelessWidget {
   const SecondPage({super.key});
